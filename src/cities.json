@@ -1,0 +1,49 @@
+{
+    "coord": {
+      "lon": 20.6275,
+      "lat": 50.8703
+    },
+    "weather": [
+      {
+        "id": 501,
+        "main": "Rain",
+        "description": "moderate rain",
+        "icon": "10n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 19.85,
+      "feels_like": 20.08,
+      "temp_min": 17.19,
+      "temp_max": 19.89,
+      "pressure": 1014,
+      "humidity": 84,
+      "sea_level": 1014,
+      "grnd_level": 982
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.08,
+      "deg": 129,
+      "gust": 2.53
+    },
+    "rain": {
+      "1h": 3.89
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1624564444,
+    "sys": {
+      "type": 2,
+      "id": 2009434,
+      "country": "PL",
+      "sunrise": 1624501465,
+      "sunset": 1624560918
+    },
+    "timezone": 7200,
+    "id": 769250,
+    "name": "Kielce",
+    "cod": 200
+  }
